@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.qml</file>
+        <file>Simple.qml</file>
+        <file>Advanced.qml</file>
+        <file>about.qml</file>
+        <file>image/app.png</file>
+        <file>WiFi.qml</file>
+        <file>scanner.qml</file>
+    </qresource>
+    <qresource prefix="/logo">
+        <file>image/nanosoft-logo.png</file>
+        <file>image/qr-code.png</file>
+        <file>image/contact-qr.png</file>
+        <file>icon/wifi.png</file>
+        <file>image/apst.png</file>
+        <file>image/gplay.png</file>
+        <file>image/wstr.png</file>
+        <file>image/bw.png</file>
+    </qresource>
+    <qresource prefix="/social">
+        <file>icon/fb.png</file>
+        <file>icon/in.png</file>
+        <file>icon/ins.png</file>
+        <file>icon/sk.png</file>
+        <file>icon/tw.png</file>
+        <file>icon/yt.png</file>
+        <file>icon/pt.png</file>
+        <file>icon/tr.png</file>
+        <file>icon/gp.png</file>
+        <file>icon/illustration-work-together.png</file>
+        <file>icon/aim.png</file>
+        <file>icon/big-wifi.png</file>
+        <file>icon/geo.png</file>
+        <file>icon/iq.png</file>
+        <file>icon/jb.png</file>
+        <file>icon/sm.png</file>
+        <file>icon/wifi.png</file>
+        <file>icon/yo.png</file>
+        <file>icon/gtalk.png</file>
+        <file>icon/msn.png</file>
+        <file>icon/fr.png</file>
+    </qresource>
+</RCC>
